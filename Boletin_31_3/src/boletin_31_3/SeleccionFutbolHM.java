@@ -1,6 +1,6 @@
 package boletin_31_3;
 
-public abstract class SeleccionFutbolHM implements IntegranteInterface{
+public abstract class SeleccionFutbolHM{
     protected int id, edad;
     protected String nombre, apellidos;
 
